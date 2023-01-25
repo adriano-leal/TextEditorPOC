@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C97D6C6A2980F3CF00E223FB /* CustomTextEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97D6C692980F3CF00E223FB /* CustomTextEditor.swift */; };
 		C9DF8E60298066AD0011C899 /* TextEditorPOCApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9DF8E5F298066AD0011C899 /* TextEditorPOCApp.swift */; };
 		C9DF8E62298066AD0011C899 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9DF8E61298066AD0011C899 /* ContentView.swift */; };
 		C9DF8E64298066AF0011C899 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9DF8E63298066AF0011C899 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C97D6C692980F3CF00E223FB /* CustomTextEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextEditor.swift; sourceTree = "<group>"; };
 		C9DF8E5C298066AD0011C899 /* TextEditorPOC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TextEditorPOC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9DF8E5F298066AD0011C899 /* TextEditorPOCApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorPOCApp.swift; sourceTree = "<group>"; };
 		C9DF8E61298066AD0011C899 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 				C9DF8E61298066AD0011C899 /* ContentView.swift */,
 				C9DF8E63298066AF0011C899 /* Assets.xcassets */,
 				C9DF8E65298066AF0011C899 /* Preview Content */,
+				C97D6C692980F3CF00E223FB /* CustomTextEditor.swift */,
 			);
 			path = TextEditorPOC;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C97D6C6A2980F3CF00E223FB /* CustomTextEditor.swift in Sources */,
 				C9DF8E62298066AD0011C899 /* ContentView.swift in Sources */,
 				C9DF8E60298066AD0011C899 /* TextEditorPOCApp.swift in Sources */,
 			);
